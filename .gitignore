@@ -13,3 +13,7 @@ wheels/
 dxata/
 # Dataset files
 dxata/*.csv
+
+# Pickle / Model files
+*.pkl
+*.pickle
